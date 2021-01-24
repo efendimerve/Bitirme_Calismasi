@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">Smart House</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="button_play">Play</string>
+    <string name="light">Light</string>
+    <string name="door">Door</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="window" translatable="false">Window</string>
+    <string name="music" translatable="false">Music</string>
+    <string name="in_the_end" translatable="false">In The End</string>
+    <string name="bad_guy" translatable="false">Bad Guy</string>
+    <string name="sleep" translatable="false">Sleep</string>
+    <string name="modlar" translatable="false">Modlar</string>
+    <string name="funny">Funny</string>
+    <string name="rest" translatable="false">Rest</string>
+    <string name="reading" translatable="false">Reading</string>
+    <string name="the_music_you_want_to_play">The music you want to play :</string>
+    <string name="play" translatable="false">play</string>
+    <string name="read_ng">readıng</string>
+    <string name="cl_ck_ng">clıckıng</string>
+    <string name="talk_ng">Talkıng</string>
+    <string name="buttonn" translatable="false">Button</string>
+    <string name="weather">Weather</string>
+    <string name="name">Name</string>
+    <string name="button_n">Button</string>
+    <string name="humi">TextView</string>
+    <string name="temp">TextView</string>
+    <string name="textview_t">textview_t</string>
+    <string name="textview_h">textview_h</string>
+    <string name="textview_as">TextView_as</string>
+    <string name="textview_a">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="temperature">Temperature</string>
+    <string name="___________">________________________________</string>
+    <string name="humidity">Humidity</string>
+    <string name="house">HOUSE</string>
+    <string name="mod">MOD</string>
+    <string name="modes">MODES</string>
+    <string name="modess">MODES :</string>
+    <string name="x">X</string>
+    <string name="call">CALL</string>
+    <string name="mode">MODE</string>
+    <string name="buttons">Button</string>
+    <string name="buttons_a">Button</string>
+    <string name="safe_mode">Safe Mode</string>
+    <string name="camera">camera</string>
+    <string name="button_m">Button</string>
+    <string name="button">Button</string>
+    <string name="back">BACK</string>
+    <string name="giri">giriş</string>
+    <string name="read">READ</string>
+    <string name="stop">STOP</string>
+    <string name="face_process_ng">FACE PROCESSİNG</string>
+</resources>

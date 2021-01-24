@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121607245495",
+    "firebase_url": "https://raspberrypi-ee2d2-default-rtdb.firebaseio.com",
+    "project_id": "raspberrypi-ee2d2",
+    "storage_bucket": "raspberrypi-ee2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121607245495:android:f9432dee75b25b04620732",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121607245495-jh6tkelqefasqkmjni03ef7o3gp26p9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deneme",
+            "certificate_hash": "afed3ca8fd4e22cbf5ea0dad9e13c8612de56b9c"
+          }
+        },
+        {
+          "client_id": "121607245495-mojd99j6epphp0k0d34uhuu7hse832tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4PKbIc9nriMWPCMF8YUHQeO0_0z5yBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121607245495-mojd99j6epphp0k0d34uhuu7hse832tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
