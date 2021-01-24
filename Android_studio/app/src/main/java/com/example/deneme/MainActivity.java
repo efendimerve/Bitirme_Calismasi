@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity {
                         @Override
                         public void onClick(View v) {
                             Intent acil_ara=new Intent(Intent.ACTION_DIAL);
-                            acil_ara.setData(Uri.parse("tel: 05345762259"));
+                            acil_ara.setData(Uri.parse("tel: 0534"));
                             startActivity(acil_ara);
                         }
                     });
@@ -228,7 +228,7 @@ public class MainActivity extends AppCompatActivity {
                         @Override
                         public void onClick(View v) {
                             Intent acil_ara=new Intent(Intent.ACTION_DIAL);
-                            acil_ara.setData(Uri.parse("tel: 05345762259"));
+                            acil_ara.setData(Uri.parse("tel: 0534"));
                             startActivity(acil_ara);
                         }
                     });
